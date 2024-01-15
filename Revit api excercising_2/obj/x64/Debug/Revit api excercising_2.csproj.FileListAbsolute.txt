@@ -1,0 +1,11 @@
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\obj\x64\Debug\Revit api excercising_2.csproj.AssemblyReference.cache
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\obj\x64\Debug\Revit api excercising_2.csproj.CoreCompileInputs.cache
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\AdWindows.dll
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\obj\x64\Debug\Revit api excercising_2.dll
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\obj\x64\Debug\Revit api excercising_2.pdb
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\Class1.cs
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\External Application.cs
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\Revit_api_excercising_2.addin
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\Revit api excercising_2.dll
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\bin\x64\Debug\Revit api excercising_2.pdb
+C:\Users\moham\Downloads\Plugin-in-Revit-using-RevitAPI-to-Draw-MEP-elemnts-Duts-and-Pipes-main\Revit api excercising_2\Revit api excercising_2\obj\x64\Debug\Revit api excercising_2.csproj.CopyComplete

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>CAD2REVIT</Name>
+		<Assembly>CAD2REVIT.dll</Assembly>
+		<AddInId>6738093C-B4D2-4300-A53C-AEC44B11A50B</AddInId>
+		<FullClassName>CAD2REVIT.App</FullClassName>
+		<Text>app</Text>
+		<Description>Application</Description>
+		<VendorId>Amany</VendorId>
+		<VendorDescription>BIM Development</VendorDescription>
+		<VisibilityMode>NotVisibleWhenNoActiveDocument</VisibilityMode>
+	</AddIn>
+</RevitAddIns>
+
